@@ -2,7 +2,7 @@
 
 Mateo Lopez Cespedes - 202014481 - m.lopez23@uniandes.edu.co
 
-Sebastian Casanova -  - s.casanovao@uniandes.edu.co
+Sebastian Casanova - 202115116 - s.casanovao@uniandes.edu.co
 
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
